@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/YanCastle/castle-sms-aliyun#readme",
   "dependencies": {
+    "@alicloud/sms-sdk": "^1.1.6",
     "castle-sms": "^1.0.1"
   }
 }
